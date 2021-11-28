@@ -1,0 +1,55 @@
+.py_retail{
+    padding:200px 0;
+}
+.mt-100{
+  margin-top: 100px;
+}
+
+.retail_blue_bg_section {
+    padding-top: 460px;
+    padding-bottom: 110px;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background: url(../images/acceptretail-mid.webp) top no-repeat;
+    background-size: cover;
+    margin-top: -564px;
+    padding-bottom: 300px;
+}
+.retail-card-detail_title{
+    color:#1292f8
+}
+.retail-card-detail{
+    color:rgba(255,255,255,.7)
+}
+.retail_blue_bg_small_img {
+    width: 200px;
+}
+
+.mt-120{
+    margin-top:-120px;
+}
+@media(min-width:992px){
+    .accept_payment_online.banner-section {
+        padding-bottom: 160px;
+    }
+    .retail_blue_bg_section {
+        padding-top: 460px;
+        padding-bottom: 110px;
+        width: 100%;
+        height: 100%;
+        content: "";
+        background: url(../images/acceptretail-mid.webp) top no-repeat;
+        background-size: cover;
+        margin-top: -342px;
+        padding-bottom: 300px;
+    }
+    .py_retail{
+        padding:50px 0 200px 0;
+    }
+}
+@media(min-width:1200px){
+    .retail_blue_bg_section {
+        margin-top: -400px;
+    }
+}

@@ -1,0 +1,25 @@
+.accept_moto.accept-payment-section{
+    background:url(../images/motoBg.webp) !important
+}
+.moto_secuirity_img{
+    width: 50px;
+}
+.protection_tab.moto_tab {
+    background: #1292f8 !important;
+    justify-content: space-between;
+}
+.protection_tab.moto_tab.nav .nav-item .nav-link{
+    color:#fff !important;
+    font-size:13px !important;
+    font-weight: 500;
+    padding:3px 10px !important;
+}
+.protection_tab.moto_tab.nav .nav-item .nav-link.active{
+    color:#453c3c !important;
+    font-size:13px !important;
+    font-weight: 500;
+    padding:3px 10px !important;
+}
+.protection_tab.moto_tab.nav .nav-item:hover{
+    padding: 0 !important;
+}

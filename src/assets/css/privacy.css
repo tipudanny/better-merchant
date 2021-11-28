@@ -1,0 +1,58 @@
+
+.banner-section.privacy-banner {
+    overflow-y: hidden;
+    position: relative;
+    overflow-x: hidden!important;
+    color: #fff;
+    padding-top: 118px;
+    padding-bottom: 86px;
+}
+.banner-section.privacy-banner:before {
+    height: calc(100% - 4px);
+}
+.privacy_banner_img_wrapper{
+    position: relative;
+}
+.privacy_banner_img{
+    position: absolute;
+}
+.privacy_banner_img {
+    position: absolute;
+    top: -135px;
+}
+/*
+**************************
+start privacy css
+**************************
+ */
+ .privacy-list ul li:before {
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    font-size: 12px;
+    content: url(../images/checkboxnew.54705a6c.svg);
+    color: #c6c6c6;
+    margin-right: 4px;
+    padding: 4px;
+}
+
+.privacy-list ul li {
+    position: relative;
+    padding-left: 30px;
+}
+/*
+**************************
+end privacy css
+**************************
+ */
+
+
+
+
+
+@media(min-width:992px){
+    .banner-section.privacy-banner {
+        padding-top: 270px;
+        padding-bottom: 200px;
+    }
+}

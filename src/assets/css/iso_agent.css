@@ -1,0 +1,114 @@
+
+.iso_yellow_title{
+    color: #fd9908 !important;
+}
+.partner-review-section .nav-tabs{
+    border-bottom: transparent !important;
+}
+.partner_review_tab_img{
+    width: 100%;
+}
+.partner-review-section .nav li{
+    line-height: 30px;
+}
+
+.partner-integration{
+    background: url(../images/partner-dashboard-bg.webp) 100% 0 no-repeat;
+    background-size: cover;
+}
+.partner-feature {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    border-radius: 25px!important;
+    width: 138px;
+    height: 154px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 30px 30px rgba(18,146,248,.17);
+    margin-right: 20px;
+    border: none!important;
+    margin-bottom: 20px;
+}
+.flip-card-inner {
+    width: 84px;
+    height: 84px;
+    text-align: center;
+    transition: transform .8s;
+    transform-style: preserve-3d;
+    margin: 16px auto;
+    display: flex;
+    align-items: center;
+}
+.flip-card-back {
+    position: absolute;
+   visibility: hidden;
+ 
+}
+.flip-card-front {
+    position: absolute;
+    visibility: visible;
+}
+.partner-feature:hover .flip-card-front {
+    visibility: hidden;
+   
+}
+.partner-feature:hover .flip-card-back {
+    visibility: visible;
+   
+}
+.help-explore-section ul li {
+    position: relative;
+    padding-left: 30px;
+    color: #453c3c;
+    line-height: 30px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+.help-explore-section ul li:before {
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    font-size: 12px;
+    content: url(../images/checkboxnew.54705a6c.svg);
+    color: #c6c6c6;
+    margin-right: 4px;
+    padding: 4px;
+}
+.carousel-bg{
+    background:#1292f8;
+}
+.carousel-shadow{
+    box-shadow: 0 0 16px rgb(0 0 0 / 27%);
+    padding: 30px;
+    border-radius: 30px;
+}
+
+
+
+.retail_hardWare_img{
+    gap:20px;
+}
+.retail_hardWare_img{
+    gap:20px;
+}
+.retail-hardware-icon img{
+    height: 20px;
+}
+@media(min-width:992px){
+    .iso_tav_nav_size a {
+        font-size: 30px;
+    }
+    .partner_review_tab_img{
+        width: 50%;
+    }
+    /* .partner-feature {
+        width: 154px;
+    } */
+    .retail-hardware-icon img{
+        height: 25px;
+    }
+    .retail_hardWare_img{
+        gap:35px;
+    }
+}

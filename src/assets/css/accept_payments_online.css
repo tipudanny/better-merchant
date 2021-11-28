@@ -1,0 +1,9 @@
+.process-serv1.online_card_payment_list ul li {
+    font-weight: 400;
+}
+
+@media(min-width:992px){
+    .accept_payment_online.banner-section {
+        padding-bottom: 160px;
+    }
+}

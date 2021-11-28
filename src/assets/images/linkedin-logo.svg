@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="60" height="60" viewBox="0 0 60 60" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(0 0 0 0 0 0)" id="55deec57-d930-4b97-ab25-2d6c398371a8"  >
+</g>
+<g transform="matrix(1 0 0 1 30 30)" id="5b57afe0-d261-4aab-8b09-7b1d5008d32a"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-30" y="-30" rx="0" ry="0" width="60" height="60" />
+</g>
+<g transform="matrix(0.97 0 0 0.97 30 30)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 -9.04 -0.06)" id="Path_2363"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(163,163,163); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-216.6, -18.81)" d="M 214.182 14.866 L 219.147 14.866 L 219.147 30.524 L 214.309 30.524 Z M 216.6 7.1 C 218.14639729952623 7.100000000000005 219.39999999999998 8.353602700473786 219.39999999999998 9.900000000000006 C 219.39999999999998 11.446397299526225 218.1463972995262 12.700000000000003 216.59999999999997 12.7 C 215.05360270047376 12.699999999999996 213.79999999999998 11.44639729952622 213.79999999999998 9.9 C 213.79999999999998 9.157393828449273 214.09499915302317 8.445202872332159 214.62010101267765 7.920101012677661 C 215.14520287233216 7.394999153023164 215.85739382844926 7.099999999999996 216.6 7.099999999999999" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.2 3.69)" id="Path_2364"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(163,163,163); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-228.04, -20.98)" d="M 220.4 13.283 L 225.11 13.283 L 225.11 15.447 L 225.23700000000002 15.447 C 226.17658489660244 13.816287952420376 227.93902988165047 12.836810017243128 229.82 12.9 C 234.785 12.9 235.676 16.21 235.676 20.411 L 235.676 29.068 L 230.838 29.068 L 230.838 21.43 C 230.838 19.648 230.838 17.23 228.292 17.23 C 225.746 17.23 225.364 19.267 225.364 21.304000000000002 L 225.364 29.07 L 220.526 29.07 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>

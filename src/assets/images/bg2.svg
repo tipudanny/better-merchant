@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614" height="774" viewBox="0 0 614 774">
+  <defs>
+    <filter id="Rectangle_576" x="0" y="0" width="405" height="601" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#003375" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11164" x="209" y="160" width="405" height="614" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-color="#003375" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4000" data-name="Group 4000" transform="translate(-362 -2143)">
+    <g transform="matrix(1, 0, 0, 1, 362, 2143)" filter="url(#Rectangle_576)">
+      <rect id="Rectangle_576-2" data-name="Rectangle 576" width="225" height="421" rx="22" transform="translate(90 60)" fill="#60d493" opacity="0.956"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 362, 2143)" filter="url(#Path_11164)">
+      <path id="Path_11164-2" data-name="Path 11164" d="M22,0H203a22,22,0,0,1,22,22V412a22,22,0,0,1-22,22H22A22,22,0,0,1,0,412V22A22,22,0,0,1,22,0Z" transform="translate(299 220)" fill="#003375" opacity="0.956"/>
+    </g>
+    <text id="Credit_Repair_Companies_Debt_Consolidation_Firms_Educational_Seminars_NonProfit_Organizations_Property_Management_SaaS_Companies_Storage_Facilities_Telemedicine_Wholesalers" data-name="Credit Repair Companies
+
+Debt Consolidation Firms
+
+Educational Seminars
+
+NonProfit Organizations
+
+Property Management
+
+SaaS Companies
+
+Storage Facilities
+
+Telemedicine
+
+Wholesalers" transform="translate(698 2386)" fill="#fff" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="14">Credit Repair </tspan><tspan x="0" y="32">Companies</tspan><tspan x="0" y="50"></tspan><tspan x="0" y="68">Debt Consolidation </tspan><tspan x="0" y="86">Firms</tspan><tspan x="0" y="104"></tspan><tspan x="0" y="122">Educational Seminars</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="158">NonProfit Organizations</tspan><tspan x="0" y="176"></tspan><tspan x="0" y="194">Property Management</tspan><tspan x="0" y="212"></tspan><tspan x="0" y="230">SaaS Companies</tspan><tspan x="0" y="248"></tspan><tspan x="0" y="266">Storage Facilities</tspan><tspan x="0" y="284"></tspan><tspan x="0" y="302">Telemedicine</tspan><tspan x="0" y="320"></tspan><tspan x="0" y="338">Wholesalers</tspan></text>
+    <g id="Polygon_55" data-name="Polygon 55" transform="translate(678 2390)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_54" data-name="Polygon 54" transform="translate(678 2443)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_53" data-name="Polygon 53" transform="translate(678 2498)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_52" data-name="Polygon 52" transform="translate(678 2534)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_51" data-name="Polygon 51" transform="translate(678 2569)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_50" data-name="Polygon 50" transform="translate(678 2606)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_44" data-name="Polygon 44" transform="translate(678 2642)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_45" data-name="Polygon 45" transform="translate(678 2678)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <g id="Polygon_46" data-name="Polygon 46" transform="translate(678 2713)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#1292f8"/>
+    </g>
+    <text id="_Accounting_Firms_Car_Rental_Services_Delivery_Services_Document_Preparation_Travel_Agencies_Freelance_Contractors_Hotel_Booking_and_Reservations_Motor_Transportation_Businesses_Online_Tech_Support_Telemarketers" data-name="
+Accounting Firms
+
+Car Rental Services
+
+Delivery Services
+
+Document Preparation
+Travel Agencies
+
+Freelance Contractors
+
+Hotel Booking and Reservations
+
+Motor Transportation Businesses
+
+Online Tech Support
+
+Telemarketers" transform="translate(483 2206)" fill="#fff" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="14"></tspan><tspan x="0" y="32">Accounting Firms</tspan><tspan x="0" y="50"></tspan><tspan x="0" y="68">Car Rental Services</tspan><tspan x="0" y="86"></tspan><tspan x="0" y="104">Delivery Services</tspan><tspan x="0" y="122"></tspan><tspan x="0" y="140">Document Preparation</tspan><tspan x="0" y="158">Travel Agencies</tspan><tspan x="0" y="176"></tspan><tspan x="0" y="194">Freelance Contractors</tspan><tspan x="0" y="212"></tspan><tspan x="0" y="230">Hotel Booking and </tspan><tspan x="0" y="248">Reservations</tspan><tspan x="0" y="266"></tspan><tspan x="0" y="284">Motor Transportation </tspan><tspan x="0" y="302">Businesses</tspan><tspan x="0" y="320"></tspan><tspan x="0" y="338">Online Tech Support</tspan><tspan x="0" y="356"></tspan><tspan x="0" y="374">Telemarketers</tspan></text>
+    <g id="Polygon_99" data-name="Polygon 99" transform="translate(460 2228)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_104" data-name="Polygon 104" transform="translate(460 2390)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_107" data-name="Polygon 107" transform="translate(460 2425)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_100" data-name="Polygon 100" transform="translate(460 2263)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_103" data-name="Polygon 103" transform="translate(460 2480)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_101" data-name="Polygon 101" transform="translate(460 2298)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_105" data-name="Polygon 105" transform="translate(460 2534)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_102" data-name="Polygon 102" transform="translate(460 2336)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_106" data-name="Polygon 106" transform="translate(460 2571)" fill="none">
+      <path d="M9.75,0,13,5.5,9.75,11H3.25L0,5.5,3.25,0Z" stroke="none"/>
+      <path d="M 4.391258239746094 2 L 2.323076248168945 5.5 L 4.391258239746094 9 L 8.608741760253906 9 L 10.67692375183105 5.5 L 8.608741760253906 2 L 4.391258239746094 2 M 3.25 0 L 9.75 0 L 13 5.5 L 9.75 11 L 3.25 11 L 0 5.5 L 3.25 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <text id="And_Many_More_" data-name="And Many More!" transform="translate(715 2756)" fill="#1292f8" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="14">And Many More!</tspan></text>
+  </g>
+</svg>
